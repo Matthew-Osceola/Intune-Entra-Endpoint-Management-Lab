@@ -16,7 +16,7 @@ Configured a Windows 11 Pro virtual machine and integrated Microsoft Entra ID an
 
 ## Architecture
 
-<img width="1880" height="1520" alt="image" src="https://github.com/user-attachments/assets/5caaef43-1063-4cb0-9e54-cd1baef6b83c" />
+<img width="450" height="360" alt="image" src="https://github.com/user-attachments/assets/80506de6-06e0-4907-a173-82bd8b687be2" />
 
 ## Tasks Performed
 
