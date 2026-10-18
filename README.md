@@ -16,15 +16,7 @@ Configured a Windows 11 Pro virtual machine and integrated Microsoft Entra ID an
 
 ## Architecture
 
-Microsoft Entra ID provides device identity and join capabilities, while Microsoft Intune manages device configuration, application deployment, and compliance.
-
-**Environment flow:**
-
-Microsoft Entra ID → Windows 11 device identity and join
-
-Microsoft Intune → Device management, configuration policies, application deployment, and compliance
-
-Windows 11 Pro VM → Enrolled endpoint used for testing and validation
+<img width="1880" height="1520" alt="image" src="https://github.com/user-attachments/assets/5caaef43-1063-4cb0-9e54-cd1baef6b83c" />
 
 ## Tasks Performed
 
